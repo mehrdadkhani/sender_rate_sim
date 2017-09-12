@@ -1,4 +1,4 @@
 Just run
-''''
-python simulator.pu
-''''
+'''
+python simulator.py
+'''
